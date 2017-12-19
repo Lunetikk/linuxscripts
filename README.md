@@ -1,2 +1,2 @@
 # linuxscripts
-Collection if different scripts for linux
+Collection of different scripts for linux
